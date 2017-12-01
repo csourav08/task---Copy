@@ -1,0 +1,47 @@
+.font{
+	font-family: 'Zeyada', cursive;
+	text-align: center;
+	color: #E8DAEF;
+	/*padding-top: 20px;*/
+}
+/*#D35400*/
+.font1{
+	font-family: 'Sacramento', cursive;
+	color: black;
+	text-align: center;
+}
+
+body{
+	background: url(img/wood.jpg); 
+	/*background-repeat: no-repeat;*/
+	/*background-size: cover;*/
+/*background : white;*/
+}
+
+.jumbotron{
+	/*background: url(img/wall.jpg);*/
+
+	background :  #1C2833    ;
+	padding-top: 25px;
+/*padding-bottom:0px;*/
+background-size: cover;
+color: #E8DAEF;
+/*height:560px;*/
+
+}
+/*.navbar{
+	background : black  ;
+	/*background: #1C2833 ;*/
+
+/*}*/
+/*#F2F3F4*/
+
+.test{
+	margin-left: 455px
+}
+
+.navbar-brand{
+	font-family: 'Creepster', cursive;
+	/*background: #E8DAEsF;*/
+
+}
